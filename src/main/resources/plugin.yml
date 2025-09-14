@@ -1,0 +1,4 @@
+name: Mcr API
+version: '${project.version}'
+main: de.philcraft.mcrapi.McrAPI
+api-version: '1.21'
